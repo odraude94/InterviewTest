@@ -1,0 +1,6 @@
+framework module Pods_StellaTest {
+  umbrella header "Pods-StellaTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
